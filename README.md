@@ -88,7 +88,7 @@ The project delivers an interactive Power BI dashboard analyzing:
 1. Clone the repository  
 2. Open `.pbix` file in Power BI Desktop  
 3. Review SQL queries in `/SQL/` folder  
-4. Sample dataset and schema available in `/Data/`
+4. Sample dataset and schema available in `/excel data/`
 
 ---
 
