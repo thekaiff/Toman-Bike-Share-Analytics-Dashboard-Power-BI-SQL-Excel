@@ -1,6 +1,6 @@
 # 🚴‍♂️ Toman Bike Share Analytics Dashboard
 
-A complete data analysis project using **Power BI**, **SQL**, and **Excel** to uncover business insights and support strategic decision-making for a fictional bike-sharing service, *Toman Bike Share*.
+A complete data analysis project to uncover business insights and support strategic decision-making for a fictional bike-sharing service, *Toman Bike Share*.
 
 ![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-blueviolet)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
@@ -53,10 +53,7 @@ The project delivers an interactive Power BI dashboard analyzing:
 
 ## 📷 Sample Dashboard Preview
 
-> _📌 Add a screenshot or GIF of your Power BI dashboard here_  
-> *(Example below — replace with your actual image)*
-
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Demo](images/dashboard-demo.gif)
 
 ---
 
@@ -92,12 +89,6 @@ The project delivers an interactive Power BI dashboard analyzing:
 2. Open `.pbix` file in Power BI Desktop  
 3. Review SQL queries in `/SQL/` folder  
 4. Sample dataset and schema available in `/Data/`
-
----
-
-## 📷 Dashboard Demo
-
-![Dashboard Demo](images/dashboard-demo.gif)
 
 ---
 
